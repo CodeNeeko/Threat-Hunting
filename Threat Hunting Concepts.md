@@ -1,4 +1,5 @@
-#### <font color='cyan'>BEACONING 101 </font>
+#### <font color='cyan'> BEACONING 101 </font>
+$${\color{red}BEACONING 101}
 
 ###### <font color=ADFF2F>What means ?</font>
 When we have an internal host periodically making outbound egress requests through the network boundary to an external server.
